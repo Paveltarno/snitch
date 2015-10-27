@@ -40,6 +40,7 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.0'
   gem 'factory_girl'
   gem 'better_errors'
+  gem 'annotate'
 end
 
 group :development do
